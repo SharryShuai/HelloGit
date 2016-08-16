@@ -1,1 +1,1 @@
-Force to clear txt.
+Force to clear txt. Clear this file.
