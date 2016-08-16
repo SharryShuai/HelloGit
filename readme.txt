@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software under GPL.
-So, I like Git! Let's start it now.
-Create a branck is so quickly.
+Force to clear txt.
