@@ -1,1 +1,3 @@
-Force to clear txt. Clear this file.
+int a = 0;
+int b = 1;
+int c = b/a;
