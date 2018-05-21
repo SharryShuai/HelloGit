@@ -1,1 +1,1 @@
-Git project.
+GIT project.
